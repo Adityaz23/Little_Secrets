@@ -7,6 +7,6 @@ npm i will download the node module .
 
 After that you can say nodemon index.js to host this website after that you see the website on your browser on localhost:3000.
 
-Then apply the changes add new module how you like it .
+Then apply the changes add new module how you like it.
 
 All the best !!!!
