@@ -10,3 +10,8 @@ After that you can say nodemon index.js to host this website after that you see 
 Then apply the changes add new module how you like it.
 
 All the best !!!!
+
+
+# If you need a git and github cheat sheet I am adding it to this project ,  I think it would reaaly help the beginners.
+
+
